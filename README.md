@@ -23,7 +23,8 @@ Lap: Records the current time as a lap and displays it in the lap list.
 HTML
 CSS
 JavaScript
-Development
+
+# Development
 If you want to customize or extend the stopwatch application, follow these steps:
 Clone the repository: git clone https://github.com/Fenet-damena/stopwatch.git  
 Open the project in your preferred code editor.
