@@ -25,7 +25,7 @@ CSS
 JavaScript
 Development
 If you want to customize or extend the stopwatch application, follow these steps:
-Clone the repository: git clone https://github.com/your-username/stopwatch.git  
+Clone the repository: git clone https://github.com/Fenet-damena/stopwatch.git  
 Open the project in your preferred code editor.
 Modify the HTML, CSS, or JavaScript files as needed.
 Test your changes by opening the index.html file in a web browser.
