@@ -1,16 +1,16 @@
-#Stopwatch
+# Stopwatch
 
 A simple stopwatch application built with HTML, CSS, and JavaScript.
-#Features
+# Features
 
 Start, pause, and reset the stopwatch
 Lap functionality to record intermediate times
 Responsive design that adapts to various screen sizes
-#Usage
+# Usage
 
 Clone the repository or download the source files.
 Open the index.html file in a web browser.
-#Controls
+# Controls
 
 Start/Pause: Starts the timer when clicked, and pauses it when clicked again.
 Reset: Resets the timer to 00:00:00.
@@ -18,7 +18,7 @@ Lap: Records the current time as a lap and displays it in the lap list.
 
 ![alt text](image.png)
 
-#Technologies Used
+# Technologies Used
 
 HTML
 CSS
