@@ -49,7 +49,7 @@ function resetTimer() {
 function lapTimer() {
     const lapTime = display.textContent;
     const lapListItem = document.createElement('li');
-    lapListItem.textContent = `Lap ${lapsCounter}: ${lapTime}`;
+    lapListItem.textContent = `${lapTime}`;
     lapsList.appendChild(lapListItem);
     lapsCounter++;
 }
