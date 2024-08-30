@@ -26,7 +26,7 @@ h1 {
     margin-bottom: 20px;
 }
 
-.stopwatch {
+.watch {
     text-align: center;
 }
 
@@ -49,7 +49,7 @@ button {
     background-color: green;
 }
 #reset{
-    background-color: yellow;
+    background-color: rgb(119, 119, 6);
 }
 #lap{
     background-color: blue;
